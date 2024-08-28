@@ -8,10 +8,11 @@
 - **Warum?**
 	```
 	Das XR18 ist der Industrie-Standard für kleinere Veranstaltungen die eine hohe Flexibilität benötigen.
-	Die wireless Konnektivität ermöglicht jegliche Art des Aufbaus und eine Vielzahl von Steuermöglichkeiten.
-	Da es sich um ein digital Pult handelt steht uns außerdem die gesammte welt der Effekte zur Verfügung. 
-	Vorallem der "stufenlose" grafische EQ, Kompressor und Hall-Effekt sind eigentlich schon seit Jahren ein absolutes minimum must have in der Veranstaltungstechnik.
-	Der einzige Konkurent in diesem Preisbereich ist das Soundcraft UI16 (555€) bzw. UI24 (999€). Allerdings verfüfgen diese über ein deutchlich schlechteres html5 Interface anstelle der App-Steuerung von Behringer.
+ 	Die wireless Konnektivität ermöglicht jegliche Art des Aufbaus und eine Vielzahl von Steuermöglichkeiten.
+	Da es sich um ein digitales Pult handelt, steht uns außerdem die gesamte Welt der Effekte zur Verfügung.
+	Vor allem der "stufenlose" grafische EQ, Kompressor und Halleffekt sind eigentlich schon seit Jahren ein absolutes Minimum must-have in der Veranstaltungstechnik.
+	Der einzige Konkurrent in diesem Preisbereich ist das Soundcraft UI16 (555€) bzw. UI24 (999€).
+ 	Allerdings verfügen diese über ein deutlich schlechteres HTML5 Interface anstelle der App-Steuerung von Behringer.
 	```
 - mögliches Zubehör:
 	- Behringer X-Touch Compact:
@@ -24,7 +25,13 @@
 		- 149,00 €
 
 
+## Di-Box
+**Palmer PAN 04**
 
+- https://www.thomann.de/de/palmer_pan_04.htm
+- 85 €
+- Um auch Keyboard, E-Bass oder E-Gitarre sauber abnehmen zu können.
+  
 ## Reparatur des vorhandenen Mikrofons
 Kapsel für kaputtes Mikro: **Sennheiser MMD 945 G3 BK**
 
@@ -38,21 +45,21 @@ Kapsel für kaputtes Mikro: **Sennheiser MMD 945 G3 BK**
 
 - https://www.gummimatte-shop.de/kabelmatten/219/kabelschutzmatte-0-50-m-x-5-0-m-3-mm-kabelmatte
 - 37€ x4 = 148€
-- Kabelschutzmatten helfen enorm Stolperfreie Wege zu ermöglichen und schützen nicht nur Kabel sondern auch Menschen.
+- Kabelschutzmatten helfen enorm Stolperfreie Wege zu ermöglichen und schützen nicht nur Kabel, sondern auch Menschen.
 
 ## Tape
 **Stairville 649 Neon Pink** (verschd. Farben verfügbar)
 
 - https://www.thomann.de/de/stairville_649_neon_pink.htm
 - 7,90
-- Gute Haftung und rückstandslose Entfernung. Kann zum befestigen und markieren genutzt werden.
+- Gute Haftung und rückstandslose Entfernung. Kann zum Befestigen und markieren genutzt werden.
 
 
 **Stairville Stage Tape 400BK**
 
 - https://www.thomann.de/de/stairville_gaffa_400bk.htm
 - 4,50 €
-- Sehr gute Haftung, hohe Stabilität und rückstandslose Entfernung. Günstiger und steifer als Farbiges, daher perfekt zum befestigen.
+- Sehr gute Haftung, hohe Stabilität und rückstandslose Entfernung. Günstiger und steifer als Farbiges, daher perfekt zum Befestigen.
 
 ## Aufwertung des Technikkellers
 **Regale** und **Mülleimer**
@@ -73,18 +80,18 @@ Kapsel für kaputtes Mikro: **Sennheiser MMD 945 G3 BK**
 - **the sssnake SM6BK Mikrokabel** x2
 	- https://www.thomann.de/de/the_sssnake_sk233-6_mikrokabel.htm
 	- 5,90€ x2 = 11,80€
-- **the sssnake SK233-1,5 XLR Patchkabel**
+- **the sssnake SK233-1,5 XLR Patchkabel** x5
 	- https://www.thomann.de/de/the_sssnake_sk23315_xlr_patch.htm
 	- 4,90€ x5 = 24,50€
 
-## Speakon
+### speakON
 - **Neutrik NL4 MMX Speaker Twist-Steckverbindung** x4
 	- https://www.thomann.de/de/neutrik_nl_4mm.htm
 	- 5,90 € x4 = 23,60€
 
-## Klinke
+### Klinke
 - **Cordial CFS 1,5m Miniklinkenkabel Schwarz**
-	- https://www.thomann.de/de/stairville_mains_ext._b_f_5m_25_mm.htm
+	- https://www.thomann.de/de/cordial_cfs_15_ww.htm
 	- 6,50€ 
 - **pro snake TPY 2030 KPP** x2  (2xMono-Klinke auf Stereo-Minibuchse)
 	- https://www.thomann.de/de/pro_snake_tpy_2030_kpp.htm
