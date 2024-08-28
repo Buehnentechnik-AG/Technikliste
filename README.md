@@ -1,6 +1,8 @@
 # Technikliste
 
-## Mischpult
+## Audio
+
+### Mischpult
 **Behringer X Air XR18**
 
 - https://www.thomann.de/de/behringer_x_air_xr18.htm
@@ -25,29 +27,30 @@
 		- 149,00 €
 
 
-## Di-Box
+### Di-Box
 **Palmer PAN 04**
 
 - https://www.thomann.de/de/palmer_pan_04.htm
 - 85 €
 - Um auch Keyboard, E-Bass oder E-Gitarre sauber abnehmen zu können.
   
-## Reparatur des vorhandenen Mikrofons
+### Reparatur des vorhandenen Mikrofons
 Kapsel für kaputtes Mikro: **Sennheiser MMD 945 G3 BK**
 
 - https://www.thomann.de/de/sennheiser_mmd_945_g3_bk.htm
 - 196€
 - Momentan können wir nur zwei von den drei Mikrofonen nutzen!
 
+## Generell
 
-## Sicherheit
+### Sicherheit
 **Kabelschutzmatte x4**
 
 - https://www.gummimatte-shop.de/kabelmatten/219/kabelschutzmatte-0-50-m-x-5-0-m-3-mm-kabelmatte
 - 37€ x4 = 148€
 - Kabelschutzmatten helfen enorm Stolperfreie Wege zu ermöglichen und schützen nicht nur Kabel, sondern auch Menschen.
 
-## Tape
+### Tape
 **Stairville 649 Neon Pink** (verschd. Farben verfügbar)
 
 - https://www.thomann.de/de/stairville_649_neon_pink.htm
@@ -61,7 +64,7 @@ Kapsel für kaputtes Mikro: **Sennheiser MMD 945 G3 BK**
 - 4,50 €
 - Sehr gute Haftung, hohe Stabilität und rückstandslose Entfernung. Günstiger und steifer als Farbiges, daher perfekt zum Befestigen.
 
-## Aufwertung des Technikkellers
+### Aufwertung des Technikkellers
 **Regale** und **Mülleimer**
 
 - Im Moment ist der Keller unsortiert, da uns Regale fehlen, um verschiedene Dinge gut zu verstauen. Außerdem würden wir uns sehr über einen Mülleimer freuen.
