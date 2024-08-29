@@ -25,6 +25,9 @@
 		- sicherer/ einfacher Transport und Aufbewahrung
 		- https://www.musicstore.de/de_DE/EUR/MUSIC-STORE-19-DD-Pro-Case-4HE-Combo/art-PAH0020304-000
 		- 149,00 €
+ - Router
+  - ca. 30€ gebraucht 
+  - eigentlich Pflicht da der eingebaute Router  nicht gut ist
 
 
 ### Di-Box
